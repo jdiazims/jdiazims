@@ -90,15 +90,8 @@ desarrollador:
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
----
 
 ### 📊 Métricas & Actividad en GitHub
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jdiazims&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
-</div>
-
-<br />
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jdiazims&theme=tokyonight&radius=10" width="100%" alt="Contribution Graph" />
@@ -112,8 +105,8 @@ desarrollador:
 
 | Proyecto | Descripción | Tech Stack | Repositorio |
 | :--- | :--- | :--- | :---: |
-| ⚡ **Proyecto 1** | Plataforma SaaS interactiva en tiempo real | `React` `Node.js` `PostgreSQL` | [⚡ Abrir Repo](https://github.com/jdiazims/proyecto-1) |
-| 📱 **Proyecto 2** | App móvil de alta velocidad y productividad | `React Native` `Firebase` `Tailwind` | [📱 Abrir Repo](https://github.com/jdiazims/proyecto-2) |
+| ⚡ **Kontia** | Plataforma SaaS interactiva en tiempo real | `React` `TypeScript` `MariaDB` | [⚡ Abrir Repo](https://github.com/jdiazims/proyecto-1) |
+| 📱 **Asigno** | App móvil de alta velocidad y productividad | `React Native` `Firebase` `Tailwind` | [📱 Abrir Repo](https://github.com/jdiazims/proyecto-2) |
 | 🛡️ **Proyecto 3** | Arquitectura de microservicios con Docker y Caching | `NestJS` `Docker` `Redis` | [🛡️ Abrir Repo](https://github.com/jdiazims/proyecto-3) |
 
 </div>
