@@ -3,7 +3,7 @@
   PROFILE README - MINIMALIST & ELEGANT FULL-STACK EDITION
 ================================================================
   INSTRUCCIONES DE PERSONALIZACIÓN:
-  1. Reemplaza `YOUR_GITHUB_USERNAME` con tu nombre de usuario exacto en GitHub.
+  1. Reemplaza `jdiazims` con tu nombre de usuario exacto en GitHub.
   2. Reemplaza los enlaces sociales (LinkedIn, Mail, Portfolio).
   3. Modifica las tecnologías en "Tech Stack" según tus herramientas actuales.
 ================================================================
@@ -80,14 +80,14 @@
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdiazims&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdiazims&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jdiazims&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" alt="GitHub Streak" />
 </div>
 
 ---
@@ -96,9 +96,9 @@
 
 | Proyecto | Descripción | Tech Stack | Enlace |
 | :--- | :--- | :--- | :---: |
-| 🚀 **Proyecto 1** | Plataforma de gestión en tiempo real con analítica. | React, Node.js, PostgreSQL | [Ver Repo](https://github.com/YOUR_GITHUB_USERNAME/proyecto-1) |
-| 📱 **Proyecto 2** | Aplicación móvil para productividad personal y tareas. | React Native, Firebase | [Ver Repo](https://github.com/YOUR_GITHUB_USERNAME/proyecto-2) |
-| ⚡ **Proyecto 3** | API RESTful escalable basada en microservicios. | NestJS, Docker, Redis | [Ver Repo](https://github.com/YOUR_GITHUB_USERNAME/proyecto-3) |
+| 🚀 **Proyecto 1** | Plataforma de gestión en tiempo real con analítica. | React, Node.js, PostgreSQL | [Ver Repo](https://github.com/jdiazims/proyecto-1) |
+| 📱 **Proyecto 2** | Aplicación móvil para productividad personal y tareas. | React Native, Firebase | [Ver Repo](https://github.com/jdiazims/proyecto-2) |
+| ⚡ **Proyecto 3** | API RESTful escalable basada en microservicios. | NestJS, Docker, Redis | [Ver Repo](https://github.com/jdiazims/proyecto-3) |
 
 ---
 
