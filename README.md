@@ -43,7 +43,7 @@
 
 ```yaml
 desarrollador:
-  nombre: "J. Díaz"
+  nombre: "Jesús Díaz"
   rol: "Full-Stack Software Engineer"
   enfoque: "Aplicaciones escalables, microservicios y UI/UX de alto nivel"
   apasionado_por: ["Clean Code", "Arquitectura Cloud", "Productividad"]
@@ -79,7 +79,6 @@ desarrollador:
   #### **Backend, DB & DevOps**
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -91,23 +90,9 @@ desarrollador:
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### 🏆 Trofeos de GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jdiazims&theme=radical&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies" />
-</div>
-
 ---
 
 ### 📊 Métricas & Actividad en GitHub
-
-<div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=jdiazims&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdiazims&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&langs_count=8" alt="Top Languages" />
-</div>
-
-<br />
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jdiazims&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
