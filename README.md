@@ -9,7 +9,7 @@
 <!--About me: start-->
 <img src="img/hi_there.png">
 
-<p>My name is Muhammad Faizan. A passionate developer from India. My main areas of interest are web and mobile development. Right now, I'm learning Flutter. Aside from this, I also do graphic design. In my spare time, I enjoy playing chess and reading.</p>
+<p>Mi nombre es Jesús Díaz. Soy un desarrollador apasionado colombiano. Mis principales áreas de interés son el desarrollo web y móvil. Ahora mismo estoy aprendiendo Flutter. En mi tiempo libre, practivar el vuelo de drones y leer.</p>
 
 <!--About me: end-->
 
@@ -17,7 +17,7 @@
 
 <img src="img/tech_stack.png">
 
-<img src="https://skillicons.dev/icons?i=java,php,dart,python,kotlin,bash,md,html,css,js,mysql,postgres,laravel,vue,pinia,gradle,flutter,tailwind,alpinejs,git,github,firebase,heroku,androidstudio,vscode,vim,idea,ai,ps,linux&perline=15" />
+<img src="https://skillicons.dev/icons?i=java,php,pythonmd,html,css,js,mysql,postgres,laravel,vue,flutter,tailwind,vite,git,github,androidstudio,vscode,vim,idealinux&perline=15" />
 
 <!--Tech stack: end-->
 
