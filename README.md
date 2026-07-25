@@ -12,7 +12,7 @@
 
 <!-- Tech stack: Inicio -->
   <img src="img/tech_stack.png">
-  <img src="https://skillicons.dev/icons?i=java,php,python,md,html,css,js,mysql,postgres,laravel,flutter,tailwind,vite,vue,git,github,androidstudio,vscode,vim,idea,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,tailwind,vite,flutter,php,laravel,java,python,mysql,postgres,git,github,vscode,androidstudio,md&perline=8" />
 <!-- Tech stack: Fin -->
 
 <!-- Estadísticas: Inicio -->
