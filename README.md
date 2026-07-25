@@ -17,7 +17,7 @@
 
 <img src="img/tech_stack.png">
 
-<img src="https://skillicons.dev/icons?i=java,php,pythonmd,html,css,js,mysql,postgres,laravel,flutter,tailwind,vite,ue,git,github,androidstudio,vscode,vim,idealinux&perline=15" />
+<img src="https://skillicons.dev/icons?i=java,php,pythonmd,html,css,js,mysql,postgres,laravel,flutter,tailwind,vite,ue,git,github,androidstudio,vscode,vim,idealinux&perline=8" />
 
 <!--Tech stack: end-->
 
