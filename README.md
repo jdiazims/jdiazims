@@ -17,8 +17,8 @@
 ### 🚀 Sobre mí
 
 * 💻 Desarrollador **Full Stack** especializado en construir aplicaciones web y sistemas empresariales eficientes.
-* 🛠️ Trabajo principalmente con **PHP (Laravel)** en el backend y **React (TypeScript)** en el frontend.
-* 📐 Enfocado en **código limpio, optimización y arquitectura escalable** (Clean Architecture).
+* 🛠️ Trabajo principalmente con **PHP (Laravel)** en el backend y **React (TypeScript & JavaScript)** en el frontend.
+* 📐 Enfocado en **código limpio, optimización y arquitectura escalable.**
 
 ---
 
