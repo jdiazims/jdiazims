@@ -6,8 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Backend+PHP+%7C+React+Developer;Apasionado+por+la+Arquitectura+Limpia;Creador+de+Sistemas+Empresariales" alt="Typing SVG" />
 
   <p align="center">
-    <a href="https://github.com/TU_USUARIO_DE_GITHUB">
-      <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_DE_GITHUB&label=Visitas&color=3b82f6&style=flat-square" alt="Visitas"/>
+    <a href="https://github.com/TU_jdiazims">
+      <img src="https://komarev.com/ghpvc/?username=TU_jdiazims&label=Visitas&color=3b82f6&style=flat-square" alt="Visitas"/>
     </a>
     <img src="https://img.shields.io/badge/Ubicación-Colombia-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Ubicación"/>
     <img src="https://img.shields.io/badge/Enfoque-Clean%20Architecture-brightgreen?style=flat-square" alt="Enfoque"/>
@@ -88,18 +88,18 @@ Disfruto escribir código limpio (SOLID), optimizar consultas de bases de datos 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="Estadísticas de GitHub" />
+      <img src="https://github-readme-stats.vercel.app/api?username=TU_jdiazims&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="Estadísticas de GitHub" />
     </td>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Lenguajes más usados" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_jdiazims&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Lenguajes más usados" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://streak-stats.demolab.com?user=TU_USUARIO_DE_GITHUB&theme=tokyonight&hide_border=true" width="100%" alt="Racha de contribuciones" />
+      <img src="https://streak-stats.demolab.com?user=TU_jdiazims&theme=tokyonight&hide_border=true" width="100%" alt="Racha de contribuciones" />
     </td>
     <td width="50%" valign="top">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO_DE_GITHUB&theme=tokyo-night&hide_border=true" width="100%" alt="Gráfico de Actividad" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_jdiazims&theme=tokyo-night&hide_border=true" width="100%" alt="Gráfico de Actividad" />
     </td>
   </tr>
 </table>
@@ -109,7 +109,7 @@ Disfruto escribir código limpio (SOLID), optimizar consultas de bases de datos 
 ### 🏆 Trofeos
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO_DE_GITHUB&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trofeos de GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TU_jdiazims&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trofeos de GitHub" />
 </p>
 
 ---
@@ -125,7 +125,7 @@ Disfruto escribir código limpio (SOLID), optimizar consultas de bases de datos 
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/TU_USUARIO_DE_GITHUB">
+  <a href="https://github.com/TU_jdiazims">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
