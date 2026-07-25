@@ -9,7 +9,7 @@
 <!--About me: start-->
 <img src="img/hi_there.png">
 
-<p>Mi nombre es Jesús Díaz. Soy un desarrollador apasionado colombiano. Mis principales áreas de interés son el desarrollo web y móvil. Ahora mismo estoy aprendiendo Flutter. En mi tiempo libre, practivar el vuelo de drones y leer.</p>
+<p>Mi nombre es Jesús Díaz. Soy un desarrollador apasionado colombiano. Mis principales áreas de interés son el desarrollo web y móvil. Ahora mismo estoy aprendiendo Flutter. En mi tiempo libre me gusta, practicar el vuelo de drones y leer.</p>
 
 <!--About me: end-->
 
@@ -17,7 +17,7 @@
 
 <img src="img/tech_stack.png">
 
-<img src="https://skillicons.dev/icons?i=java,php,pythonmd,html,css,js,mysql,postgres,laravel,vue,flutter,tailwind,vite,git,github,androidstudio,vscode,vim,idealinux&perline=15" />
+<img src="https://skillicons.dev/icons?i=java,php,pythonmd,html,css,js,mysql,postgres,laravel,flutter,tailwind,vite,ue,git,github,androidstudio,vscode,vim,idealinux&perline=15" />
 
 <!--Tech stack: end-->
 
