@@ -1,8 +1,3 @@
-# Vista Previa del nuevo README
-
-Este es el contenido final del archivo [README.md](file:///C:/Users/Jesus%20Diaz%20Sarmiento/Downloads/README.md) con tu usuario `jdiazims`:
-
-```markdown
 <div align="center">
 
 <!-- Banner principal personalizado -->
@@ -74,4 +69,3 @@ Este es el contenido final del archivo [README.md](file:///C:/Users/Jesus%20Diaz
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="80%" alt="Snake Game" />
 
 </div>
-```
