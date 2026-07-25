@@ -30,12 +30,12 @@
 ### ✨ Sobre mí
 
 <p>
-👋 ¡Hola! Soy <strong>Jesús Díaz</strong>, un desarrollador de software apasionado por crear aplicaciones web eficientes y escalables. Me especializo en combinar la lógica sólida del backend usando <strong>PHP y Laravel</strong> con interfaces interactivas y dinámicas en el frontend con <strong>React y TypeScript</strong>.
+👋 ¡Hola! Soy <strong>Jesús Díaz</strong>, un desarrollador de software enfocado en la creación de aplicaciones y sistemas empresariales robustos. Mi día a día transcurre diseñando arquitecturas escalables, optimizando el rendimiento de bases de datos e integrando lógica de negocio compleja en el backend con <strong>PHP y Laravel</strong>, junto con interfaces dinámicas y modernas con <strong>React y TypeScript</strong>.
 </p>
 
-* 💼 **Enfoque actual:** Construyendo sistemas de gestión empresarial y APIs REST optimizadas.
-* 📐 **Arquitectura:** Comprometido con las buenas prácticas, patrones SOLID y Clean Architecture.
-* 🚀 **Metas:** Automatizar flujos de trabajo e implementar pipelines robustos de CI/CD con Docker.
+* 📐 **Arquitectura y Código Limpio:** Fiel creyente de los principios SOLID, patrones de diseño y Clean Architecture para escribir software mantenible.
+* ⚙️ **Enfoque Backend:** Diseño de APIs REST seguras, optimización de consultas SQL complejas e integraciones de terceros.
+* 🖥️ **Enfoque Frontend:** Desarrollo de interfaces interactivas, seguras y rápidas optimizando la experiencia de usuario.
 
 ---
 
@@ -49,13 +49,13 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 💼 Experiencia & Proyectos Corporativos
+*Dado que la mayor parte de mi trabajo se centra en software propietario y privado para empresas, aquí detallo el tipo de proyectos que diseño y construyo:*
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jdiazims&theme=tokyonight" height="150" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jdiazims&theme=tokyonight" height="150" alt="Top Languages" />
-</p>
+* 🏢 **Sistemas de Gestión de Inventario y Stock (ERP):** Sistemas integrales para la administración de catálogos, control de stock en tiempo real, facturación y reportes analíticos automatizados.
+* 🔐 **Módulos de Seguridad y Autenticación:** Implementación de flujos seguros de autenticación con JWT, control de acceso basado en roles (RBAC) y protección de endpoints críticos.
+* 📊 **Procesamiento de Datos y Reportes:** Creación de motores de exportación masiva a formatos como Excel y PDF, estructuración de consultas optimizadas para reportes financieros y auditorías de datos.
+* 🔌 **Integraciones de APIs:** Conexión de pasarelas de pago, servicios de mensajería y sincronización de datos con sistemas de terceros.
 
 ---
 
