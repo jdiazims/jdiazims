@@ -12,7 +12,7 @@
 
 <!-- Tech stack: Inicio -->
   <img src="img/tech_stack.png">
-  <img src="https://skillicons.dev/icons?i=java,php,pythonmd,html,css,js,mysql,postgres,laravel,flutter,tailwind,vite,ue,git,github,androidstudio,vscode,vim,idealinux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,php,python,md,html,css,js,mysql,postgres,laravel,flutter,tailwind,vite,vue,git,github,androidstudio,vscode,vim,idea,linux&perline=8" />
 <!-- Tech stack: Fin -->
 
 <!-- Estadísticas: Inicio -->
@@ -25,15 +25,12 @@
 <!--Más Detalles: Inicio -->
   <img src="img/more_things.png">
   
-<div>
-<!-- ### Actualmente estoy leyendo:
+</div>
 
-<!-- Actualmente: Inicio
+<!--
+### Actualmente estoy leyendo:
 - [The Man Who Mistook His Wife for a Hat and Other Clinical Tales](https://www.goodreads.com/review/show/8469457900?utm_medium=api&utm_source=rss) by Oliver Sacks (⭐️4.08)
-
-
-<!-- Actualmente: Fin
---> 
+-->
 
 <!-- Más detalles: Fin -->
 
