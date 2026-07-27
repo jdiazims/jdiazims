@@ -1,0 +1,66 @@
+<svg width="350" height="165" viewBox="0 0 350 165" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Top Languages">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, -apple-system, sans-serif; fill: #388286; }
+    .lang-name { font: 600 12px 'Segoe UI', Ubuntu, -apple-system, sans-serif; fill: #667799; }
+    .lang-pct { font: 400 12px 'Segoe UI', Ubuntu, -apple-system, sans-serif; fill: #667799; }
+  </style>
+  <defs>
+    <clipPath id="bar-clip">
+      <rect x="25" y="55" width="300" height="8" rx="4" />
+    </clipPath>
+  </defs>
+  
+  <!-- Transparent background, no border to match the reverted theme -->
+  <rect width="350" height="165" rx="10" fill="none" />
+  
+  <text x="25" y="35" class="header">Top Languages</text>
+  
+  <!-- Progress Bar (Total width 300px) -->
+  <g clip-path="url(#bar-clip)">
+    <!-- Base background -->
+    <rect x="25" y="55" width="300" height="8" fill="#667799" fill-opacity="0.2" />
+    
+    <!-- PHP (50.0% = 150px) -->
+    <rect x="25" y="55" width="150" height="8" fill="#4F5D95" />
+    
+    <!-- JavaScript (49.3% = 147.9px) -->
+    <rect x="175" y="55" width="147.9" height="8" fill="#f1e05a" />
+    
+    <!-- CSS (0.4% = 1.2px) -->
+    <rect x="322.9" y="55" width="1.2" height="8" fill="#563d7c" />
+    
+    <!-- Other (0.2% = 0.6px) -->
+    <rect x="324.1" y="55" width="0.6" height="8" fill="#6e7681" />
+    
+    <!-- HTML (0.1% = 0.3px) -->
+    <rect x="324.7" y="55" width="0.3" height="8" fill="#e34c26" />
+  </g>
+  
+  <!-- Language List -->
+  <!-- Row 1 -->
+  <!-- PHP -->
+  <circle cx="31" cy="95" r="6" fill="#4F5D95" />
+  <text x="45" y="99" class="lang-name">PHP</text>
+  <text x="75" y="99" class="lang-pct">50.0%</text>
+
+  <!-- JavaScript -->
+  <circle cx="131" cy="95" r="6" fill="#f1e05a" />
+  <text x="145" y="99" class="lang-name">JavaScript</text>
+  <text x="215" y="99" class="lang-pct">49.3%</text>
+
+  <!-- CSS -->
+  <circle cx="261" cy="95" r="6" fill="#563d7c" />
+  <text x="275" y="99" class="lang-name">CSS</text>
+  <text x="305" y="99" class="lang-pct">0.4%</text>
+
+  <!-- Row 2 -->
+  <!-- Other -->
+  <circle cx="31" cy="120" r="6" fill="#6e7681" />
+  <text x="45" y="124" class="lang-name">Other</text>
+  <text x="85" y="124" class="lang-pct">0.2%</text>
+
+  <!-- HTML -->
+  <circle cx="131" cy="120" r="6" fill="#e34c26" />
+  <text x="145" y="124" class="lang-name">HTML</text>
+  <text x="185" y="124" class="lang-pct">0.1%</text>
+</svg>
