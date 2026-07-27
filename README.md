@@ -22,12 +22,12 @@
   <img alt="Top Langs" width="350" src="img/top_languages.svg">
 <!-- Estadísticas: Fin -->
 
-<!--Más Detalles: Inicio -->
+<!--Más Detalles: Inicio
   <img src="img/more_things.png">
   
 </div>
 
-<!--
+
 ### Actualmente estoy leyendo:
 - [The Man Who Mistook His Wife for a Hat and Other Clinical Tales](https://www.goodreads.com/review/show/8469457900?utm_medium=api&utm_source=rss) by Oliver Sacks (⭐️4.08)
 -->
