@@ -36,6 +36,6 @@
 
 <!--Footer: start-->
 <div align="center">
----
+
   <img src="img/with_love.png">
 </div>
