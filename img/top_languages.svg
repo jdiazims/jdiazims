@@ -20,17 +20,17 @@
     <!-- Base background -->
     <rect x="25" y="55" width="300" height="8" fill="#667799" fill-opacity="0.2" />
     
-    <!-- PHP (50.0% = 150px) -->
-    <rect x="25" y="55" width="150" height="8" fill="#4F5D95" />
+    <!-- PHP (49.9% = 149.7px) -->
+    <rect x="25" y="55" width="149.7" height="8" fill="#4F5D95" />
     
-    <!-- JavaScript (49.3% = 147.9px) -->
-    <rect x="175" y="55" width="147.9" height="8" fill="#f1e05a" />
+    <!-- JavaScript (49.0% = 147.0px) -->
+    <rect x="174.7" y="55" width="147.0" height="8" fill="#f1e05a" />
     
-    <!-- CSS (0.4% = 1.2px) -->
-    <rect x="322.9" y="55" width="1.2" height="8" fill="#563d7c" />
+    <!-- CSS (0.7% = 2.1px) -->
+    <rect x="321.7" y="55" width="2.1" height="8" fill="#563d7c" />
     
-    <!-- Other (0.2% = 0.6px) -->
-    <rect x="324.1" y="55" width="0.6" height="8" fill="#6e7681" />
+    <!-- Other (0.3% = 0.9px) -->
+    <rect x="323.8" y="55" width="0.9" height="8" fill="#6e7681" />
     
     <!-- HTML (0.1% = 0.3px) -->
     <rect x="324.7" y="55" width="0.3" height="8" fill="#e34c26" />
@@ -41,23 +41,23 @@
   <!-- PHP -->
   <circle cx="31" cy="95" r="6" fill="#4F5D95" />
   <text x="45" y="99" class="lang-name">PHP</text>
-  <text x="75" y="99" class="lang-pct">50.0%</text>
+  <text x="75" y="99" class="lang-pct">49.9%</text>
 
   <!-- JavaScript -->
   <circle cx="131" cy="95" r="6" fill="#f1e05a" />
   <text x="145" y="99" class="lang-name">JavaScript</text>
-  <text x="215" y="99" class="lang-pct">49.3%</text>
+  <text x="215" y="99" class="lang-pct">49.0%</text>
 
   <!-- CSS -->
   <circle cx="261" cy="95" r="6" fill="#563d7c" />
   <text x="275" y="99" class="lang-name">CSS</text>
-  <text x="305" y="99" class="lang-pct">0.4%</text>
+  <text x="305" y="99" class="lang-pct">0.7%</text>
 
   <!-- Row 2 -->
   <!-- Other -->
   <circle cx="31" cy="120" r="6" fill="#6e7681" />
   <text x="45" y="124" class="lang-name">Other</text>
-  <text x="85" y="124" class="lang-pct">0.2%</text>
+  <text x="85" y="124" class="lang-pct">0.3%</text>
 
   <!-- HTML -->
   <circle cx="131" cy="120" r="6" fill="#e34c26" />
